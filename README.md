@@ -4,8 +4,6 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 21 March 2023 - To: 28 March 2023
-
 Java             8 hrs 6 mins    ███████████████████▓░░░░░   78.42 %
 JSON             46 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 %
 XML              42 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.92 %
