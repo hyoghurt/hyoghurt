@@ -5,8 +5,6 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 12 hrs 47 mins
-
 Java                  8 hrs 51 mins   █████████████████▒░░░░░░░   69.24 %
 XML                   51 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.66 %
 JSON                  48 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.35 %
