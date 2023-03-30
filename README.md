@@ -1,6 +1,8 @@
 ### Hi there 👋
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyoghurt&layout=compact&exclude_repo=multiserver,docker_compose&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hyoghurt)](https://github.com/anuraghazra/github-readme-stats)
+
 📊 **This Week I Spent My Time On** 
 <!--START_SECTION:waka-->
 
