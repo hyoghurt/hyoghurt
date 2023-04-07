@@ -1,7 +1,7 @@
 ### Hi there 👋
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyoghurt&layout=compact&exclude_repo=multiserver,docker_compose&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On** (stats from [WakaTime](https://wakatime.com))
 <!--START_SECTION:waka-->
 
 ```text
