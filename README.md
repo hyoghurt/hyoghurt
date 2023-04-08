@@ -6,12 +6,17 @@
 <!--START_SECTION:waka-->
 
 ```text
+Total Time: 29 hrs 50 mins
+
 TypeScript       21 hrs 12 mins  █████████████████▓░░░░░░░   71.04 %
 Java             4 hrs 44 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.92 %
 JavaScript       2 hrs           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.72 %
 YAML             35 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
 JSON             21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
 XML              18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
+
+Operating systems: Linux
+Editors: WebStorm, IntelliJ
 ```
 
 <!--END_SECTION:waka-->
