@@ -13,7 +13,7 @@ jobs:
       - uses: hyoghurt/waka-readme@dev
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          INPUT_SHOW_TIME: true
-          INPUT_SHOW_TOTAL: true
-          INPUT_SHOW_OPERATING_SYSTEMS: true
-          INPUT_SHOW_EDITORS: true
+          SHOW_TIME: true
+          SHOW_TOTAL: true
+          SHOW_OPERATING_SYSTEMS: true
+          SHOW_EDITORS: true
