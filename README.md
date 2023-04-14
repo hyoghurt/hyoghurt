@@ -6,14 +6,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 32 hrs 39 mins
+Total Time: 31 hrs 4 mins
 
-TypeScript            19 hrs 45 mins  ███████████████░░░░░░░░░░   60.50 %
-Java                  7 hrs 49 mins   ██████░░░░░░░░░░░░░░░░░░░   23.96 %
-Python                2 hrs 30 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 %
-JavaScript            1 hr 26 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 %
-JSON                  17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
-XML                   12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
+TypeScript            16 hrs 25 mins  █████████████▒░░░░░░░░░░░   52.84 %
+Java                  9 hrs 41 mins   ███████▓░░░░░░░░░░░░░░░░░   31.18 %
+Python                2 hrs 30 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 %
+JavaScript            1 hr 21 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 %
+JSON                  17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
+XML                   10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
 
 Operating systems: Linux
 Editors: WebStorm, IntelliJ, PyCharm
