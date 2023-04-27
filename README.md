@@ -6,14 +6,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 21 hrs 22 mins
+Total Time: 18 hrs 48 mins
 
-TypeScript   11 hrs 12 mins  █████████████░░░░░░░░░░░░   52.47 %
-Java         3 hrs 34 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.72 %
-Lua          2 hrs 5 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.78 %
-SQL          1 hr 18 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.10 %
-JavaScript   1 hr 1 min      █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 %
-YAML         38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
+TypeScript   10 hrs 4 mins   █████████████▒░░░░░░░░░░░   53.61 %
+Java         2 hrs 13 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.85 %
+Lua          2 hrs 5 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.11 %
+SQL          1 hr 26 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 %
+JavaScript   1 hr 3 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.62 %
+YAML         28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
 
 Operating systems: Linux
 Editors: Neovim, IntelliJ, WebStorm
