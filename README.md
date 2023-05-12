@@ -6,14 +6,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 25 hrs 38 mins
+Total Time: 29 hrs 16 mins
 
-Java             16 hrs 15 mins  ████████████████░░░░░░░░░   63.41 %
-XML              2 hrs 50 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.06 %
-YAML             1 hr 47 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.97 %
-Docker           1 hr 35 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.18 %
-TypeScript       1 hr 7 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 %
-SQL              38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
+Java             19 hrs 34 mins  ████████████████▓░░░░░░░░   66.85 %
+XML              3 hrs 17 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.26 %
+YAML             1 hr 57 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.68 %
+Docker           1 hr 35 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.42 %
+TypeScript       48 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
+SQL              38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
 
 Operating systems: Linux
 Editors: IntelliJ, Neovim
