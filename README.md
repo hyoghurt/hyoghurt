@@ -6,13 +6,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 46 hrs 23 mins
+Total Time: 44 hrs 12 mins
 
-Java            43 hrs 16 mins  ███████████████████████▒░   93.31 %
-XML             1 hr 31 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
-YAML            1 hr 23 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
-Markdown        8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
-AUTO_DETECTED   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Java            39 hrs 45 mins  ██████████████████████▒░░   89.94 %
+XML             2 hrs 26 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.51 %
+YAML            1 hr 49 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 %
+Markdown        8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+AUTO_DETECTED   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 Bash            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 
 Operating systems: Linux
