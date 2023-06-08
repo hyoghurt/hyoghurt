@@ -6,14 +6,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 21 hrs 54 mins
+Total Time: 20 hrs 32 mins
 
-Java             17 hrs 35 mins  ████████████████████░░░░░   80.33 %
-YAML             2 hrs 58 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.56 %
-XML              1 hr 6 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.06 %
-Markdown         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
-HTML             3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
-Bash             2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+Java                15 hrs 58 mins  ███████████████████▒░░░░░   77.76 %
+YAML                4 hrs 2 mins    █████░░░░░░░░░░░░░░░░░░░░   19.67 %
+XML                 15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
+Markdown            5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+HTML                3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+DockerIgnore file   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
 
 Operating systems: Linux
 Editors: IntelliJ
