@@ -6,14 +6,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 36 hrs 45 mins
+Total Time: 34 hrs 24 mins
 
-Java                                   22 hrs 18 mins  ███████████████▒░░░░░░░░░   60.70 %
-XML                                    8 hrs 19 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.67 %
-Properties                             1 hr 46 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.84 %
-spring-boot-configuration-properties   1 hr 28 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 %
-YAML                                   1 hr 3 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
-Makefile                               40 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
+Java                                   20 hrs 18 mins  ██████████████▓░░░░░░░░░░   59.03 %
+XML                                    8 hrs 19 mins   ██████░░░░░░░░░░░░░░░░░░░   24.20 %
+Properties                             1 hr 40 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.89 %
+spring-boot-configuration-properties   1 hr 15 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 %
+YAML                                   1 hr 3 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
+Makefile                               40 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
 
 Operating systems: Linux
 Editors: IntelliJ, Neovim
