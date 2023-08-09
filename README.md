@@ -6,13 +6,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 51 hrs 1 min
+Total Time: 47 hrs 12 mins
 
-Java                   45 hrs 46 mins  ██████████████████████▒░░   89.72 %
-XML                    2 hrs 26 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.79 %
-Properties             2 hrs 24 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.72 %
-Markdown               11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
-Diagrams.net Diagram   7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+Java                   42 hrs 59 mins  ██████████████████████▓░░   91.08 %
+XML                    1 hr 52 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 %
+Properties             1 hr 47 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
+Diagrams.net Diagram   27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
+textmate               2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 Text                   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 
 Operating systems: Linux
