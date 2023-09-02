@@ -6,14 +6,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 47 hrs 8 mins
+Total Time: 56 hrs 52 mins
 
-Java              35 hrs 24 mins  ██████████████████▓░░░░░░   75.13 %
-XML               4 hrs 16 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.05 %
-YAML              2 hrs 27 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.21 %
-Properties        2 hrs 8 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 %
-Java Properties   57 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
-Text              27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
+Java              43 hrs 29 mins  ███████████████████░░░░░░   76.46 %
+XML               4 hrs 17 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 %
+YAML              3 hrs 22 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.92 %
+Properties        2 hrs 19 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 %
+Java Properties   1 hr 15 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
+JSON              37 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
 
 Operating systems: Linux
 Editors: IntelliJ, Neovim
