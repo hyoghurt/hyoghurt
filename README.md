@@ -6,12 +6,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 30 hrs 57 mins
+Total Time: 30 hrs 49 mins
 
-Java              28 hrs 53 mins  ███████████████████████░░   92.48 %
-Java Properties   35 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
-SQL               22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
-YAML              22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
+Java              28 hrs 26 mins  ███████████████████████░░   91.44 %
+SQL               47 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
+Java Properties   35 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
+YAML              23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
 Other             16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
 
 Operating systems: Linux
