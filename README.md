@@ -8,11 +8,11 @@
 ```txt
 Total Time: 27 hrs 8 mins
 
-Java              24 hrs 13 mins  ██████████████████████▒░░   89.21 %
-SQL               2 hrs 14 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 %
-Java Properties   18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
-CSV               10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
-Properties        6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+Java              24 hrs 9 mins   ██████████████████████▒░░   89.01 %
+SQL               1 hr 24 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.19 %
+XML               41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
+Java Properties   28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
+CSV               11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
 
 Operating systems: Linux
 Editors: Intellijidea
