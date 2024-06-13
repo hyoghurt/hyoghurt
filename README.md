@@ -6,13 +6,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 20 hrs 43 mins
+Total Time: 13 hrs 26 mins
 
-Java              17 hrs 36 mins  █████████████████████▒░░░   84.97 %
-SQL               1 hr 17 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.25 %
-XML               34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 %
-Java Properties   21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
-JSON              17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
+Java              11 hrs 12 mins  █████████████████████░░░░   83.35 %
+SQL               1 hr 15 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.37 %
+XML               31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 %
+JSON              17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
+Java Properties   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
 
 Operating systems: Linux
 Editors: Intellijidea
