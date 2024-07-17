@@ -6,13 +6,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 19 hrs 19 mins
+Total Time: 25 hrs 19 mins
 
-Java              8 hrs 52 mins   ███████████▒░░░░░░░░░░░░░   45.95 %
-XML               5 hrs 32 mins   ███████▒░░░░░░░░░░░░░░░░░   28.67 %
-Markdown          1 hr 50 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.51 %
-YAML              42 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 %
-SQL               42 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 %
+Java              13 hrs 49 mins  █████████████▓░░░░░░░░░░░   54.58 %
+XML               5 hrs 40 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.39 %
+Markdown          1 hr 54 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 %
+JSON              1 hr 1 min      █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 %
+YAML              51 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
 
 Operating systems: Linux
 Editors: IntelliJ IDEA, Intellijidea
