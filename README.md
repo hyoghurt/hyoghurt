@@ -6,9 +6,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 3 hrs 9 mins
 
-No activity tracked
+Java              2 hrs 44 mins   █████████████████████▓░░░   86.59 %
+XML               18 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.71 %
+YAML              6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
+Java Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+Properties        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+
+Operating systems: Linux
+Editors: IntelliJ IDEA
 ```
 
 <!--END_SECTION:waka-->
