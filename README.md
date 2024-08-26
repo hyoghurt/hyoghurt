@@ -6,12 +6,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 2 mins
+Total Time: 0 secs
 
-Lua   2 mins          █████████████████████████   100.00 %
-
-Operating systems: Linux
-Editors: Neovim
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
